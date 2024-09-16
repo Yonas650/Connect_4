@@ -6,4 +6,3 @@
 - Interactive grid: Drop your checkers by selecting a column to place them in.
 - Win detection: The game detects when a player has connected four checkers and declares them the winner.
 
-### Feel free to customize this README file to fit the specifics of your Connect 4 game implementation, including programming languages, libraries, and additional features.
